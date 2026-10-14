@@ -1,4 +1,4 @@
-# Graphgen
+# GraphicGen
 Programa em python que desenha graficos a partir de arquivos CSVs no computador do usuário
 
 Para executar este programa Python, é necessário que o usuário tenha o Python instalado em sua máquina. 
@@ -15,8 +15,8 @@ py -m pip install pandas matplotlib seaborn
 
 Por fim, coloque os arquivos .csv na mesma pasta do programa e execute o terminal nesta pasta via gerenciador de arquivos ou editor de código (ex: Visual Studio Code)
 digite no terminal:
-python graphgen.py
+python graficos.py
 ou
-py graphgen.py
+py graficos.py
 
 Caso os comandos não sejam reconhecidos, reveja a etapa de adicionar o Python às Variáveis de Ambiente

@@ -15,8 +15,8 @@ py -m pip install pandas matplotlib seaborn
 
 Por fim, coloque os arquivos .csv na mesma pasta do programa e execute o terminal nesta pasta via gerenciador de arquivos ou editor de código (ex: Visual Studio Code)
 digite no terminal:
-python gerador.py
+python graphgen.py
 ou
-py gerador.py
+py graphgen.py
 
-Caso os comandos não sejam reconhecidos, reveja a etapa de adicionar o Python às Váriaveis de Ambiente
+Caso os comandos não sejam reconhecidos, reveja a etapa de adicionar o Python às Variáveis de Ambiente

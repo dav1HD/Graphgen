@@ -1,7 +1,11 @@
 # GraphicGen
 Programa em python que desenha graficos a partir de arquivos CSVs no computador do usuário
 
-Para executar este programa Python, é necessário que o usuário tenha o Python instalado em sua máquina. 
+Para executar com o .exe:
+  -> Apenas adicione os arquivos .csv na pasta base do aplicativo e execute o aplicativo.
+
+
+Para executar via compilador Python:
 download Python: https://www.python.org/downloads/
 
 Após instalação, é necessário adicionar o caminho do Python às Variáveis de ambiente do sistema operacional.
